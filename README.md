@@ -7,12 +7,11 @@ Este repositório reúne **projetos reais e completos**, com foco em análise de
 
 ## 🔗 Projetos Publicados
 
-> ✍️ *Adicione aqui seus projetos reais no futuro seguindo o modelo abaixo.*
 
-- [Nome do Projeto – Tema](LINK_DO_REPOSITORIO)
-  - 📌 Descrição curta do projeto
-  - 🛠️ Ferramentas: Power BI, Excel, DAX, etc.
-  - 📊 Assuntos: RH, Vendas, Financeiro, etc.
+- [Análise de Nascimentos no Estado de São Paulo (2020–2022)]([LINK_DO_REPOSITORIO](https://github.com/Talhari1/NascidosVivos_SP))
+  - 📌 Análise exploratória e visual de dados de nascidos vivos no estado de São Paulo entre 2020 e 2022, com base nos arquivos públicos do DataSUS. O projeto envolve extração, tratamento e visualização de dados para gerar insights sobre variáveis como sexo, idade da mãe, escolaridade, tipo de parto e peso ao nascer.
+  - 🛠️ Ferramentas: Power BI, SQL Server, Python.
+  - 📊 Assuntos: Saúde Publica.
 
 ---
 
